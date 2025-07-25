@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log*
+.env
+.env.local
+.DS_Store
+*.log
+docs/
+deploy.sh
+*.md
+railway-*.sh
+deploy-*.sh
