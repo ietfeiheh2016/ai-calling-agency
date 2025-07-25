@@ -20,4 +20,4 @@ EXPOSE 5000
 WORKDIR /app/backend
 
 # Start the application
-CMD ["npm", "start"]
+CMD ["node", "server.js"]
