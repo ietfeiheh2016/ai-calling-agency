@@ -1,0 +1,25 @@
+{
+  "name": "ai-calling-agency",
+  "version": "1.0.0",
+  "description": "AI-powered calling agency for home service businesses",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "build": "cd backend && npm install",
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd frontend && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ietfeiheh2016/ai-calling-agency.git"
+  },
+  "keywords": [
+    "ai",
+    "calling",
+    "agency",
+    "automation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
